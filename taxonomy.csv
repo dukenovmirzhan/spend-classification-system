@@ -1,0 +1,79 @@
+code,level,parent,name
+01,1,,Raw materials and feed
+02,1,,Packaging
+03,1,,MRO and spare parts
+04,1,,Equipment
+05,1,,Industrial services
+06,1,,Utilities and energy
+07,1,,Logistics and transport
+08,1,,Administrative and office
+0101,2,01,Feed components
+0102,2,01,Veterinary supplies
+0201,2,02,Primary packaging
+0202,2,02,Secondary packaging
+0301,2,03,Rotating equipment components
+0302,2,03,Fasteners and hardware
+0303,2,03,Electrical components
+0304,2,03,Pneumatics and hydraulics
+0401,2,04,Processing equipment
+0402,2,04,Material handling
+0501,2,05,Maintenance services
+0502,2,05,Inspection and certification
+0601,2,06,Electricity
+0602,2,06,Fuel and lubricants
+0701,2,07,Road freight
+0702,2,07,Warehousing
+0801,2,08,Office supplies
+0802,2,08,IT and communications
+01010001,3,0101,Grain
+01010002,3,0101,Protein meal
+01020001,3,0102,Vaccines
+02010001,3,0201,Trays
+02010002,3,0201,Films and laminates
+02020001,3,0202,Cartons
+03010001,3,0301,Bearings
+03010002,3,0301,Seals and gaskets
+03010003,3,0301,Belts and chains
+03020001,3,0302,Bolts and nuts
+03030001,3,0303,Cables
+03030002,3,0303,Contactors and relays
+03040001,3,0304,Pneumatic cylinders
+03040002,3,0304,Hoses and fittings
+04010001,3,0401,Chilling and freezing units
+04020001,3,0402,Conveyors
+05010001,3,0501,Mechanical repair
+05020001,3,0502,Metrology and calibration
+06010001,3,0601,Grid supply
+06020001,3,0602,Diesel fuel
+06020002,3,0602,Industrial lubricants
+07010001,3,0701,Refrigerated transport
+07020001,3,0702,External storage
+08010001,3,0801,Stationery
+08020001,3,0802,Software licences
+030100010001,4,03010001,Deep groove ball bearing 6208-2RS
+030100010002,4,03010001,Deep groove ball bearing 6308-2RS
+030100010003,4,03010001,Tapered roller bearing 32210
+030100020001,4,03010002,Oil seal 40x62x8 NBR
+030100030001,4,03010003,V-belt SPZ 1250
+030200010001,4,03020001,Hex bolt M12x60 8.8 zinc
+030200010002,4,03020001,Hex nut M12 8.8 zinc
+030300010001,4,03030001,Power cable 3x2.5 mm2
+030300020001,4,03030002,Contactor 25A 230V
+030400010001,4,03040001,Pneumatic cylinder 32x100
+030400020001,4,03040002,Hydraulic hose DN12 2SN
+010100010001,4,01010001,Feed wheat bulk
+010100020001,4,01010002,Soybean meal 46% protein
+020100010001,4,02010001,PP tray 187x137x40
+020100020001,4,02010002,Barrier film 60 mic
+020200010001,4,02020001,Corrugated box 400x300x200
+040100010001,4,04010001,Spiral freezer line
+040200010001,4,04020001,Modular belt conveyor
+050100010001,4,05010001,Pump overhaul service
+050200010001,4,05020001,Scale calibration service
+060100010001,4,06010001,Electricity supply
+060200010001,4,06020001,Diesel fuel bulk
+060200020001,4,06020002,Gear oil ISO VG 220
+070100010001,4,07010001,Refrigerated road transport
+070200010001,4,07020001,Third-party cold storage
+080100010001,4,08010001,A4 paper
+080200010001,4,08020001,Office software licence
